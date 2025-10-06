@@ -1,11 +1,11 @@
 {
-    "version": "1.95.775278",
+    "version": "1.96.781095",
     "description": "Logi Options+. Enhance your experience. Logi Options+ is the powerful, easy-to-use, next-gen application that enables customization for Logitech mice and keyboards so you can work how you want.",
     "homepage": "https://www.logitech.com/en-au/software/logi-options-plus.html",
     "license": "Proprietary",
     "changelog": "https://support.logi.com/hc/en-us/articles/1500005516462",
     "url": "https://download01.logi.com/web/ftp/pub/techsupport/optionsplus/logioptionsplus_installer.exe#/setup.exe",
-    "hash": "7d0d1df4e3d2c8de1b7749ca9a9773d5ef4e66007af51af2cd6f9160d071926e",
+    "hash": "3586f967072090d223e1c965ba458c78bc065926eba566a715719d63990aec56",
     "pre_download": "Assert-Administrator",
     "pre_install": [
         "$processname = \"logioptionsplus\"",
